@@ -1,5 +1,7 @@
 // See https://aka.ms/vscode-remote/devcontainer.json for format details.
 {
+	"name": "ROS 2 Development Container",
+	"privileged": true,
 	"dockerFile": "Dockerfile",
 	"build": {
 		"args": {
@@ -41,7 +43,8 @@
 				"streetsidesoftware.code-spell-checker",
 				"twxs.cmake",
 				"yzhang.markdown-all-in-one",
-				"zachflower.uncrustify"
+				"zachflower.uncrustify",
+				"ms-vscode.powershell"
 			]
 		}
 	}
