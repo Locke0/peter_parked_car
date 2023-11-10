@@ -1,5 +1,5 @@
 {
-    "editor.tabSize": 8,
+    "editor.tabSize": 4,
     "editor.rulers": [
         100
     ],
@@ -70,5 +70,6 @@
         ".vscode",
         ".vscode-insiders",
         ".devcontainer/devcontainer.json"
-    ]
+    ],
+    "cmake.sourceDirectory": "/workspaces/peter_parked_car/src/peter_control"
 }
