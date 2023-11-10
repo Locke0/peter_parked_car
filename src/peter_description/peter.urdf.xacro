@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<peter xmlns:xacro="http://www.ros.org/wiki/xacro" name="peter">
+	<xacro:include filename="peter_core.xacro" />
+</peter>
