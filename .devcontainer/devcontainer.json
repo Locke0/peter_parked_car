@@ -44,7 +44,9 @@
 				"twxs.cmake",
 				"yzhang.markdown-all-in-one",
 				"zachflower.uncrustify",
-				"ms-vscode.powershell"
+				"ms-vscode.powershell",
+				"tabnine.tabnine-vscode",
+				"vsciot-vscode.vscode-arduino"
 			]
 		}
 	}
