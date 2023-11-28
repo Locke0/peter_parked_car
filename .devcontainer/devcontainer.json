@@ -46,7 +46,8 @@
 				"zachflower.uncrustify",
 				"ms-vscode.powershell",
 				"tabnine.tabnine-vscode",
-				"vsciot-vscode.vscode-arduino"
+				"vsciot-vscode.vscode-arduino",
+				"gruntfuggly.todo-tree"
 			]
 		}
 	}
