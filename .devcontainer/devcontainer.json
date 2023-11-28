@@ -1,6 +1,6 @@
 // See https://aka.ms/vscode-remote/devcontainer.json for format details.
 {
-	"name": "ROS 2 Development Container",
+	"name": "Peter Dev",
 	"privileged": true,
 	"dockerFile": "Dockerfile",
 	"build": {
