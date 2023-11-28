@@ -1,5 +1,7 @@
 // See https://aka.ms/vscode-remote/devcontainer.json for format details.
 {
+	"name": "Peter Dev",
+	"privileged": true,
 	"dockerFile": "Dockerfile",
 	"build": {
 		"args": {
@@ -41,7 +43,11 @@
 				"streetsidesoftware.code-spell-checker",
 				"twxs.cmake",
 				"yzhang.markdown-all-in-one",
-				"zachflower.uncrustify"
+				"zachflower.uncrustify",
+				"ms-vscode.powershell",
+				"tabnine.tabnine-vscode",
+				"vsciot-vscode.vscode-arduino",
+				"gruntfuggly.todo-tree"
 			]
 		}
 	}
